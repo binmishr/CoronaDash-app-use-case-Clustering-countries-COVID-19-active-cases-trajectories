@@ -20,8 +20,4 @@ The dashboard provides various data mining/ visualization techniques for compari
 I use the below datsets:
 
 1. worldometers population size datsets: https://www.worldometers.info/coronavirus/
-2. Test data : covid19-master -covid19-master -Test Data.zip
-3. Cases and Death Numbers : COVID-19-master cases and deaths numbers.zip
-4. recovery cases number : covid19-timeseries-master recovery cases number.zip
-
 Tsrepr package documentation : https://cran.r-project.org/web/packages/TSrepr/index.html
